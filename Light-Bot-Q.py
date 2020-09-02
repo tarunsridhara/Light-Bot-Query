@@ -25,7 +25,6 @@ def lightoff(bot,update):
     bot.send_message(chat_id,text='Light is Off')
    
    
-
 u = Updater('1364109578:AAEcZrWvdo-DmYeNeWVWOzpZzl_AOSmjP5k')
 dp = u.dispatcher
 
